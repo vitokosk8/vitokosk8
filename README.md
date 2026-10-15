@@ -8,36 +8,38 @@
   <a href="https://stat.ripe.net/AS210505"><img src="https://img.shields.io/badge/AS210505-RIPEstat-2C5F8A?style=for-the-badge" alt="AS210505"></a>
 </p>
 
-**Internet Infrastructure & Peering Engineer** based in Gran Canaria ·
-Member of the [MANRS Steering Committee](https://manrs.org/about/governance/steering-committee/steering-committee-members/)
+**Internet Infrastructure & Peering Engineer** · Gran Canaria · MANRS Steering Committee
 
-I design, build and teach networks: BGP, SRv6/SR, MPLS, IP core and FTTx.
-15+ years of hands-on consulting and training across ISP/Telco, hospitality and retail.
+> Crafting networking wizardry while dealing with AS209235 and AS210505 packets and peers.
+> Turning tech jargon into team triumphs — I make sure every team's journey is both educational and epic.
 
-## Things I work with
+## 🧭 About me
 
-### Vendors · certified trainer
+- **15+ years** hands-on consulting and training in multivendor AV, IT & Networks across ISP/Telco, Hospitality and Retail
+- **7+ years** developing business opportunities
+- **BGP · SRv6/SR · MPLS · IP Core · FTTx** — network solution design, planning, implementation, migration and deployment
 
-<p align="center">
-  <img src="https://img.shields.io/badge/MikroTik-293239?style=for-the-badge&logo=mikrotik&logoColor=white" alt="MikroTik">
-  <img src="https://img.shields.io/badge/Huawei-FF0000?style=for-the-badge&logo=huawei&logoColor=white" alt="Huawei">
-  <img src="https://img.shields.io/badge/Ubiquiti-0559C9?style=for-the-badge&logo=ubiquiti&logoColor=white" alt="Ubiquiti">
-  <img src="https://img.shields.io/badge/Grandstream-0E6EB8?style=for-the-badge" alt="Grandstream">
-  <img src="https://img.shields.io/badge/IPv6_Forum-2E7D32?style=for-the-badge" alt="IPv6 Forum">
-</p>
+## 🎓 Certified trainer
 
-### Networking
+| Vendor | Certifications |
+|---|---|
+| <img src="https://img.shields.io/badge/Huawei-FF0000?style=for-the-badge&logo=huawei&logoColor=white" alt="Huawei"> | **Certified System Instructor** — Routing & Switching, WLAN, Access, Security, Transmission |
+| <img src="https://img.shields.io/badge/MikroTik-293239?style=for-the-badge&logo=mikrotik&logoColor=white" alt="MikroTik"> | **Certified Trainer** — MTCNA, MTCRE, MTCINE, MTCWE, MTCEWE, MTCTCE, MTCIPv6E, MTCUME, MTCSE, MTCSWE |
+| <img src="https://img.shields.io/badge/IPv6_Forum-2E7D32?style=for-the-badge" alt="IPv6 Forum"> | **Certified Trainer** — Network, Security |
+| <img src="https://img.shields.io/badge/Grandstream-0E6EB8?style=for-the-badge" alt="Grandstream"> | **Certified Trainer** — UC Solution, Networking Solution |
+| <img src="https://img.shields.io/badge/Ubiquiti-0559C9?style=for-the-badge&logo=ubiquiti&logoColor=white" alt="Ubiquiti"> | **Certified Trainer** — UFSP, UWA, URSC |
+
+## 🛠️ Things I work with
 
 <p align="center">
   <img src="https://img.shields.io/badge/BGP-1F4E79?style=for-the-badge" alt="BGP">
   <img src="https://img.shields.io/badge/SRv6_%2F_SR-1F4E79?style=for-the-badge" alt="SRv6 / SR">
   <img src="https://img.shields.io/badge/MPLS-1F4E79?style=for-the-badge" alt="MPLS">
+  <img src="https://img.shields.io/badge/IP_Core-1F4E79?style=for-the-badge" alt="IP Core">
   <img src="https://img.shields.io/badge/IPv6-1F4E79?style=for-the-badge" alt="IPv6">
   <img src="https://img.shields.io/badge/FTTx-1F4E79?style=for-the-badge" alt="FTTx">
   <img src="https://img.shields.io/badge/Peering-1F4E79?style=for-the-badge" alt="Peering">
 </p>
-
-### Code & tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
@@ -45,9 +47,10 @@ I design, build and teach networks: BGP, SRv6/SR, MPLS, IP core and FTTx.
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 </p>
 
-## Internet community
+## 🌍 Internet community & governance
 
-- MANRS Steering Committee
-- RIPE NCC community — Charging Scheme Task Force 2024
-- Internet Society Fellowship 2025
-- ESNOG
+- Member of the [**MANRS Steering Committee**](https://manrs.org/about/governance/steering-committee/steering-committee-members/), contributing to global routing security best practices and policy alignment
+- Active participant in the **RIPE NCC** community, including the [RIPE Charging Scheme Task Force (2024)](https://www.ripe.net/membership/mail/member-and-community-consultations/charging-scheme-task-force-2024/)
+- [**Internet Society Fellowship 2025**](https://www.internetsociety.org/fellowships/community/2025-fellows/) selected fellow
+- Participant in **ESNOG** and other international networking communities, fostering knowledge exchange among network operators
+- **Internet Society** chapter member: Latin, Spain, Canary Islands, Pulse, Interplanetary, LEO Satellite
