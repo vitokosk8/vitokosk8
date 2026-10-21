@@ -8,7 +8,7 @@
   <a href="https://stat.ripe.net/AS210505"><img src="https://img.shields.io/badge/AS210505-RIPEstat-2C5F8A?style=for-the-badge" alt="AS210505"></a>
 </p>
 
-**Internet Infrastructure & Peering Engineer** · Gran Canaria · MANRS Steering Committee
+**Internet Infrastructure & Peering Engineer** · Canary Islands (ES) · MANRS Steering Committee
 
 > Crafting networking wizardry while dealing with AS209235 and AS210505 packets and peers.
 > Turning tech jargon into team triumphs — I make sure every team's journey is both educational and epic.
