@@ -8,7 +8,7 @@
   <a href="https://stat.ripe.net/AS210505"><img src="https://img.shields.io/badge/AS210505-RIPEstat-2C5F8A?style=for-the-badge" alt="AS210505"></a>
 </p>
 
-**Internet Infrastructure & Peering Engineer** · Canary Islands (ES) · MANRS Steering Committee
+**Internet Infrastructure & Peering Engineer** · Canary Islands · MANRS Steering Committee · RIPE NCC Arbiter Panel
 
 > Crafting networking wizardry while dealing with AS209235 and AS210505 packets and peers.
 > Turning tech jargon into team triumphs — I make sure every team's journey is both educational and epic.
@@ -52,9 +52,8 @@
 ## 🌍 Internet community & governance
 
 - Member of the [**MANRS Steering Committee**](https://manrs.org/about/governance/steering-committee/steering-committee-members/), contributing to global routing security best practices and policy alignment
-- Active participant in the **RIPE NCC** community, including the:
-[RIPE Arbiter Panel (2026)](https://www.ripe.net/membership/gm/meetings/october-2026/voting-report/)
-[RIPE Charging Scheme Task Force (2024)](https://www.ripe.net/membership/mail/member-and-community-consultations/charging-scheme-task-force-2024/)
+- Elected to the [**RIPE NCC Arbiter Panel**](https://www.ripe.net/about-us/news/general-meeting-october-2026-results/) at the RIPE NCC General Meeting, October 2026
+- Active participant in the **RIPE NCC** community, including the [RIPE Charging Scheme Task Force (2024)](https://www.ripe.net/membership/mail/member-and-community-consultations/charging-scheme-task-force-2024/)
 - [**Internet Society Fellowship 2025**](https://www.internetsociety.org/fellowships/community/2025-fellows/) selected fellow
 - Participant in **ESNOG** and other international networking communities, fostering knowledge exchange among network operators
 - **Internet Society** chapter member: Latin, Spain, Canary Islands, Pulse, Interplanetary, LEO Satellite
