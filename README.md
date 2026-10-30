@@ -52,7 +52,9 @@
 ## 🌍 Internet community & governance
 
 - Member of the [**MANRS Steering Committee**](https://manrs.org/about/governance/steering-committee/steering-committee-members/), contributing to global routing security best practices and policy alignment
-- Active participant in the **RIPE NCC** community, including the [RIPE Charging Scheme Task Force (2024)](https://www.ripe.net/membership/mail/member-and-community-consultations/charging-scheme-task-force-2024/)
+- Active participant in the **RIPE NCC** community, including the:
+[RIPE Arbiter Panel (2026)](https://www.ripe.net/membership/gm/meetings/october-2026/voting-report/)
+[RIPE Charging Scheme Task Force (2024)](https://www.ripe.net/membership/mail/member-and-community-consultations/charging-scheme-task-force-2024/)
 - [**Internet Society Fellowship 2025**](https://www.internetsociety.org/fellowships/community/2025-fellows/) selected fellow
 - Participant in **ESNOG** and other international networking communities, fostering knowledge exchange among network operators
 - **Internet Society** chapter member: Latin, Spain, Canary Islands, Pulse, Interplanetary, LEO Satellite
